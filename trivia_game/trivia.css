@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    color: coral;
+}
+#quiz{
+    color: aliceblue;
+}
+body {  background-image: url(https://www.gannett-cdn.com/presto/2019/07/03/USAT/7ee50b2a-6acb-4924-a98b-b1d3045691c4-AP_Film-The_Little_Mermaid-Anniversary.JPG?width=540&height=&fit=bounds&auto=webp);
+}
